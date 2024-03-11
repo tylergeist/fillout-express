@@ -1,4 +1,4 @@
-# [Fillout - Form Response Filtering]
+# Fillout - Form Response Filtering
 
 This API provides an interface to interact with existing Fillout form responses API. It's built with Node.js and Express and is an example implmentation of a simple express server.
 
@@ -8,7 +8,8 @@ This API provides an interface to interact with existing Fillout form responses 
 
 
 ## Get Filtered Responses
-Endpoint:
+
+*Endpoint*:
 
 ### GET /api/:formId/filteredResponses
 
